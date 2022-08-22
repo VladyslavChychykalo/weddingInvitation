@@ -15,12 +15,13 @@
 }
 
 .title {
-  font-family: "Dancing Script", cursive;
+  font-family: "Playfair Display", serif;
   font-weight: 500;
-  font-size: 28px;
+  font-size: 26px;
   text-align: center;
-  padding-top: 10px;
-  margin-bottom: 10px;
+  line-height: 30px;
+  padding-top: 15px;
+  margin-bottom: 25px;
 }
 
 .addressBlock {
@@ -37,7 +38,7 @@
   text-align: center;
   font-weight: 500;
   margin-top: 14px;
-  line-height: 20px;
+  line-height: 22px;
 }
 
 .wrapper {
@@ -79,7 +80,7 @@ h2 {
 }
 
 .wishesText {
-  line-height: 20px;
+  line-height: 22px;
   font-weight: 500;
   margin-bottom: 15px;
 }

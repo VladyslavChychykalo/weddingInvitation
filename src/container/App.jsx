@@ -8,7 +8,9 @@ import styles from "./App.module.css";
 const App = () => {
   return (
     <div className={styles.wrapper}>
-      <h1 className={styles.title}>Our wedding</h1>
+      <h1 className={styles.title}>
+        Ми самі не очікували, але цей день настав-ми одружуємося!!!
+      </h1>
       <div className={styles.imageBlock}>
         <img className={styles.imageItem} src={bothImage} alt="Both" />
       </div>
@@ -52,7 +54,7 @@ const App = () => {
         Віддаємо перевагу замість квітів пляшечку чогось з градусом і з датою
         відкоркування пляшки {";)"}
       </p>
-      <button className={styles.btn}>Записатися</button>
+      {/* <button className={styles.btn}>Записатися</button> */}
       {/* <a href="telegram.me/@groupname"></a> */}
     </div>
   );
