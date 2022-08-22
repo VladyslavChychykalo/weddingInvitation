@@ -2,7 +2,7 @@ import React from "react";
 import bothImage from "../assets/both.JPG";
 import annaImage from "../assets/anna.JPG";
 import jenyaImage from "../assets/jenya.JPG";
-import stickImage from "../assets/_for-postcard";
+import stickImage from "../assets/_for-postcard.png";
 import styles from "./App.module.css";
 
 const App = () => {
