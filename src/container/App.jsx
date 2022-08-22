@@ -25,14 +25,14 @@ const App = () => {
       </div>
       <img className={styles.imageStick} src={stickImage} alt="Stick" />
       <div className={styles.personBlock}>
-        <h2 className={styles.titleName}>Наречена Ганна</h2>
+        <h2 className={styles.titleName}>Наречена Анна</h2>
         <div className={styles.imageBlock}>
           <img className={styles.imageItem} src={annaImage} alt="Anna" />
         </div>
         <p className={styles.description}>
-          Тендітна зовні та сильна духом Ганна завжди мріяла про Гуфа. У
+          Тендітна зовні та сильна духом Анна завжди мріяла про Гуфа. У
           дитинстві гуляючи вулицями Кривого Рогу з плеєром в руках, на повторі,
-          грала пісня «Ice Baby”. Ганна виросла та зустріла Євгена. Спільне у
+          грала пісня «Ice Baby”. Анна виросла та зустріла Євгена. Спільне у
           Євгена і Гуфа, це любов до пісень Гуфа, татуювання та живіт.
         </p>
       </div>
