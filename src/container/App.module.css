@@ -1,0 +1,108 @@
+.imageBlock {
+  display: block;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 125%;
+}
+
+.imageItem {
+  position: absolute;
+  top: 0;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.title {
+  font-family: "Dancing Script", cursive;
+  font-weight: 500;
+  font-size: 28px;
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+.addressBlock {
+  margin-top: 20px;
+  margin-left: 12px;
+  margin-bottom: 35px;
+}
+
+.addressBlock p {
+  margin-bottom: 4px;
+}
+
+.postTitle {
+  text-align: center;
+  font-weight: 500;
+  margin-top: 14px;
+  line-height: 20px;
+}
+
+.wrapper {
+  background-color: #f1e6db;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 25px;
+}
+
+.test {
+  display: block;
+}
+
+p,
+div,
+h1,
+h2 {
+  color: #3e6851;
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  word-break: break-word;
+}
+
+.titleName {
+  font-weight: 500;
+  font-size: 26px;
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.description {
+  line-height: 20px;
+  margin-top: 10px;
+}
+
+.personBlock {
+  margin-bottom: 35px;
+}
+
+.wishesText {
+  line-height: 20px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.imageStick {
+  margin: 0 auto;
+  display: block;
+  width: 100px;
+  transform: rotate(180deg);
+  margin-bottom: 5px;
+}
+
+.btn {
+  display: block;
+  background: transparent;
+  cursor: pointer;
+  height: 30px;
+  width: 140px;
+  border: 2px solid #f58535;
+  border-radius: 10px;
+  font-size: 12px;
+  outline: none;
+  margin: 0 auto;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #3e6851;
+}
