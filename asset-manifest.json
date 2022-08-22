@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/weddingInvitation/static/css/main.6355866f.css",
+    "main.js": "/weddingInvitation/static/js/main.1d999f05.js",
+    "static/media/both.JPG": "/weddingInvitation/static/media/both.b312da6e8fff6de173dd.JPG",
+    "static/media/anna.JPG": "/weddingInvitation/static/media/anna.d8dd5eb05e38739c0eaa.JPG",
+    "static/media/jenya.JPG": "/weddingInvitation/static/media/jenya.60e652f00723e4a18fb6.JPG",
+    "static/media/_for-postcard": "/weddingInvitation/static/media/_for-postcard.71b72c8f32e45629802b",
+    "static/media/DancingScript-Medium.ttf": "/weddingInvitation/static/media/DancingScript-Medium.18363d2ef0655855f4a6.ttf",
+    "static/media/DancingScript-SemiBold.ttf": "/weddingInvitation/static/media/DancingScript-SemiBold.c4f068e98fbc53ef9ec4.ttf",
+    "static/media/DancingScript-Bold.ttf": "/weddingInvitation/static/media/DancingScript-Bold.72fc35f38c2864ca2cd5.ttf",
+    "index.html": "/weddingInvitation/index.html",
+    "main.6355866f.css.map": "/weddingInvitation/static/css/main.6355866f.css.map",
+    "main.1d999f05.js.map": "/weddingInvitation/static/js/main.1d999f05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6355866f.css",
+    "static/js/main.1d999f05.js"
+  ]
+}
