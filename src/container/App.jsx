@@ -8,20 +8,20 @@ import styles from "./App.module.css";
 const App = () => {
   return (
     <div className={styles.wrapper}>
-      <h1 className={styles.title}>
-        Our wedding
-      </h1>
+      <h1 className={styles.title}>Our wedding</h1>
       <div className={styles.imageBlock}>
         <img className={styles.imageItem} src={bothImage} alt="Both" />
       </div>
-      <p className={styles.postTitle}>Запрошуємо вас розділити з нами цей чудовий день!</p>
+      <p className={styles.postTitle}>
+        Запрошуємо вас розділити з нами цей чудовий день!
+      </p>
       <div className={styles.addressBlock}>
         <p>11.09.22</p>
         <p>Ресторан «Царське село»</p>
         <p>За адресою: Одеська 62 а </p>
         <p>О 12:00</p>
       </div>
-      <img className={styles.imageStick} src={stickImage} alt="Stick" /> 
+      <img className={styles.imageStick} src={stickImage} alt="Stick" />
       <div className={styles.personBlock}>
         <h2 className={styles.titleName}>Наречена Ганна</h2>
         <div className={styles.imageBlock}>
@@ -34,19 +34,18 @@ const App = () => {
           Євгена і Гуфа, це любов до пісень Гуфа, татуювання та живіт.
         </p>
       </div>
-      <img className={styles.imageStick} src={stickImage} alt="Stick" /> 
+      <img className={styles.imageStick} src={stickImage} alt="Stick" />
       <div className={styles.personBlock}>
         <h2 className={styles.titleName}>Наречений Євген</h2>
         <div className={styles.imageBlock}>
           <img className={styles.imageItem} src={jenyaImage} alt="Jenya" />
         </div>
         <p className={styles.description}>
-          Мне кажется так будет даже лучше Брутальний зовні та дуже добрий
-          всередині Євген у дитинстві передивившись усі кліпи Britney Spears
-          колись сказав: «Ось така буде в мене дружина». Євген підріс та Britney
-          Spears так і не приїхала до Кривого Рогу, але Євген не дуже
-          засмутився, тому що він не любить лисих жінок. Настав час і Євген
-          зустрів саму гарну та тендітну Ганну.
+          Брутальний зовні та дуже добрий всередині Євген у дитинстві
+          передивившись усі кліпи Britney Spears колись сказав: «Ось така буде в
+          мене дружина». Євген підріс та Britney Spears так і не приїхала до
+          Кривого Рогу, але Євген не дуже засмутився, тому що він не любить
+          лисих жінок. Настав час і Євген зустрів саму гарну та тендітну Ганну.
         </p>
       </div>
       <p className={styles.wishesText}>
